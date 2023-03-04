@@ -4,17 +4,17 @@
 </div>  
   
 
-# <div align="center">Developer Full Stack / Angular - NodeJS</div>  
+# <div align="center">Developer Mobile Developer / Java - Kotlin</div>  
 
-### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
+### <div align="center">🚧 My portfolio (theMIslam.fr) redirects you here because i am updating it for 2023 🚧</div><br />
 
-- 🌱 I’m currently learning ThreeJS / Blender  
+- 🌱 I’m currently learning Kotlin / Gradle  
   
 
 - 💻 All of my projects are available at [https://thomascauquil.fr](https://thomascauquil.fr)  
   
 
-- ✉️ How to reach me [contact@thomascauquil.fr](mailto:contact@thomascauquil.fr)  
+- ✉️ How to reach me [valvekakaxa@gmail.com]  
   
 
 <br/>  
