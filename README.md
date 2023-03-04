@@ -6,12 +6,12 @@
 
 # <div align="center">Developer Mobile Developer / Java - Kotlin</div>  
 
-### <div align="center">🚧 My portfolio (theMIslam.fr) redirects you here because i am updating it for 2023 🚧</div><br />
+### <div align="center">🚧 My portfolio (theMIslam) redirects you here because i am updating it for 2023 🚧</div><br />
 
 - 🌱 I’m currently learning Kotlin / Gradle  
   
 
-- 💻 All of my projects are available at [https://thomascauquil.fr](https://thomascauquil.fr)  
+- 💻 All of my projects are available at [[https://thomascauquil.fr](https://github.com/theMIslam?tab=repositories)](https://github.com/theMIslam?tab=repositories)  
   
 
 - ✉️ How to reach me [valvekakaxa@gmail.com]  
