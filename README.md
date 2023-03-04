@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Kotlin / Gradle  
   
 
-- 💻 All of my projects are available at (https://github.com/theMIslam?tab=repositories)](https://github.com/theMIslam?tab=repositories)  
+- 💻 All of my projects are available at (https://github.com/theMIslam?tab=repositories)
   
 
 - ✉️ How to reach me [valvekakaxa@gmail.com]  
